@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Chrome 89.0.4389.114,,,2021-04-22 14:59:43,2021-04-22 15:00:02,19.632s,FAILED
+,,,,,,,
+Test Cases/Test1,Chrome 89.0.4389.114,,,2021-04-22 14:59:47,2021-04-22 15:00:02,15.661s,FAILED
+"openBrowser("""")",Chrome 89.0.4389.114,,,2021-04-22 14:59:48,2021-04-22 14:59:54,6.429s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/"")",Chrome 89.0.4389.114,,,2021-04-22 14:59:54,2021-04-22 15:00:00,5.394s,PASSED
+"setText(findTestObject(""Object Repository/Test1_OR/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), ""Admin"")",Chrome 89.0.4389.114,,,2021-04-22 15:00:00,2021-04-22 15:00:01,1.384s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Test1_OR/Page_OrangeHRM/input_Username_txtPassword""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 89.0.4389.114,,,2021-04-22 15:00:01,2021-04-22 15:00:02,1.108s,FAILED
